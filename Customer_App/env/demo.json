@@ -1,0 +1,9 @@
+{
+  "APPLICATION_ID": "com.getgozo.user",
+  "APP_NAME": "Yunido",
+  "BASE_URL": "https://admin.yunido.in/customer/",
+  "WEB_URL": "https://admin.yunido.in",
+  "SOCKET_BASE_URL": "wss://yunido.in:8080/app/w73uw1egonunwexdhebg",
+  "DEEPLINK_SCHEME": "yunido",
+  "DEEPLINK_HOST": "yunido.in"
+}

@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "225342090327",
+    "project_id": "getgozo-c5d03",
+    "storage_bucket": "getgozo-c5d03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225342090327:android:3d4c4298aa6cd97e548712",
+        "android_client_info": {
+          "package_name": "com.getgozo.dboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225342090327-8a6539ddovd0qaibs6str19977p36avk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.getgozo.dboy",
+            "certificate_hash": "996752a24b6daea46862d8460a79e4ca63186c4e"
+          }
+        },
+        {
+          "client_id": "225342090327-1lejer01mknvege86rtl05kebqef362b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXfHGjVDFN_8CWlx3F4MQmxonOBdMQ8qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225342090327-1lejer01mknvege86rtl05kebqef362b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225342090327:android:390e16157372b44c548712",
+        "android_client_info": {
+          "package_name": "com.getgozo.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225342090327-a6ci0sui68grap5v2jn5jos814j97puk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.getgozo.user",
+            "certificate_hash": "e854025d5a99ae93129eb7fe022ef34e4d053c27"
+          }
+        },
+        {
+          "client_id": "225342090327-ol6biie0715v3n65ndubvb5d5hf94ik3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.getgozo.user",
+            "certificate_hash": "996752a24b6daea46862d8460a79e4ca63186c4e"
+          }
+        },
+        {
+          "client_id": "225342090327-1lejer01mknvege86rtl05kebqef362b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXfHGjVDFN_8CWlx3F4MQmxonOBdMQ8qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225342090327-1lejer01mknvege86rtl05kebqef362b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+{
+  "APPLICATION_ID": "com.getgozo.dboy",
+  "APP_NAME": "SnapBuy Deliveryboy",
+  "BASE_URL": "https://admin-snapbuy.wrteam.me/delivery_boy/",
+  "SOCKET_BASE_URL": "wss://admin-snapbuy.wrteam.me/ws/chat"
+}
